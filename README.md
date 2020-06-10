@@ -18,7 +18,7 @@ git clone https://github.com/vahellame/root-vk-bot.git
 cd root-vk-bot
 python3 -m venv venv
 ./venv/bin/pip install -U pip setuptools wheel
-./venv/bin/pip install -r requirments.txt
+./venv/bin/pip install -r requirements.txt
 ```
 
 ### Step 3) Running bot
