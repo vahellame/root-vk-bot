@@ -24,5 +24,5 @@ python3 -m venv venv
 ### Step 3) Running bot
 
 ```
-sudo nohup ./venv/bin/python main.py 1> output_nohup.txt 2> errors_nohup.txt &
+sudo nohup $PWD/venv/bin/python $PWD/main.py 1> $PWD/out.txt 2> $PWD/errors.txt &
 ```
