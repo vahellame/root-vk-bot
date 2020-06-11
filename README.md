@@ -1,4 +1,4 @@
-## root bot
+## root VK bot
 
 ### Step 1) Requirements
 
